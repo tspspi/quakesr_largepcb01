@@ -432,7 +432,7 @@
   (gr_line (start 147 100.25) (end 147 96) (layer "Edge.Cuts") (width 0.1) (tstamp cc088dd4-8dc0-47b7-9a06-02a6f416c909))
   (gr_line (start 147 110.25) (end 147 107) (layer "Edge.Cuts") (width 0.1) (tstamp d6cddb32-0661-4624-8a7e-24823338fd72))
   (gr_line (start 121.25 127.25) (end 168.25 127.25) (layer "Edge.Cuts") (width 0.1) (tstamp e4bb0205-04c3-4e2c-805d-b3f2e32efb4a))
-  (gr_text "ESR PCB 13\nhttps://github.com/tspspi/quakesr_largepcb01\n31d8fae8a4ff6aa3300da58cbd38f06a5551c754" (at 140 89 180) (layer "F.SilkS") (tstamp b2f7a57d-e3cf-4081-9f50-3e62503ca323)
+  (gr_text "ESR PCB 13\nhttps://github.com/tspspi/quakesr_largepcb01\n0a913afaa46477bdcbdf72bffd25d23259a02d7a" (at 140 89 180) (layer "F.SilkS") (tstamp b2f7a57d-e3cf-4081-9f50-3e62503ca323)
     (effects (font (size 0.4 0.4) (thickness 0.0625)))
   )
   (target plus (at 144.75 105.25) (size 5) (width 0.1) (layer "Edge.Cuts") (tstamp 52e8a0df-bf4a-46f5-8261-d5f1e82e2ca9))
